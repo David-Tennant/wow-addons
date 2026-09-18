@@ -1,0 +1,9 @@
+## Interface: 120000
+## Title: onebag
+## Notes: Hides the bag slot buttons and leaves only the main backpack button, so Edit Mode moves a single bag.
+## Author: David Tennant
+## Version: 1.0.0
+## Category-enUS: Inventory
+## SavedVariables: OneBagDB
+
+onebag.lua

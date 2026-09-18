@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: notext
+## Notes: Hides combat feedback text (damage, healing, misses, etc.) on the player and pet unit frames only.
+## Author: David Tennant
+## Version: 1.0.0
+## Category-enUS: Unit Frames
+
+notext.lua
