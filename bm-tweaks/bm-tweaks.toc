@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: bm-tweaks
+## Notes: Shows the Cobra Fang stack count in large bright blue text on the Cooldown Manager.
+## Author: David Tennant
+## Version: 1.0.0
+## Category-enUS: Combat
+
+bm-tweaks.lua
